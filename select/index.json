@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ENDLESS STORY",
+  "base_artist": "REIRA starring YUNA ITO",
+  "createdAt": "2025-12-01T13:18:13.877611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "後悔莫及 (Endless Story Live)",
+      "artist": "蘇打綠",
+      "has_synced": false,
+      "path": "select/01_後悔莫及_(Endless_Story_Live)_蘇打綠.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ENDLESS STORY",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/02_ENDLESS_STORY_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Endless Story",
+      "artist": "Big Scary",
+      "has_synced": false,
+      "path": "select/03_The_Endless_Story_Big_Scary.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ENDLESS STORY",
+      "artist": "伊藤由奈",
+      "has_synced": true,
+      "path": "select/04_ENDLESS_STORY_伊藤由奈.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ENDLESS STORY",
+      "artist": "Yuna Ito",
+      "has_synced": true,
+      "path": "select/05_ENDLESS_STORY_Yuna_Ito.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Endless Story",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/06_Endless_Story_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "endless Story",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/07_endless_Story_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Endless Story",
+      "artist": "The Light the Heat",
+      "has_synced": true,
+      "path": "select/08_Endless_Story_The_Light_the_Heat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "endless Story",
+      "artist": "BAND‐MAID",
+      "has_synced": true,
+      "path": "select/09_endless_Story_BAND‐MAID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ENDLESS STORY",
+      "artist": "GALNERYUS",
+      "has_synced": false,
+      "path": "select/10_ENDLESS_STORY_GALNERYUS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ENDLESS STORY",
+      "artist": "REIRA starring YUNA ITO",
+      "has_synced": true,
+      "path": "select/11_ENDLESS_STORY_REIRA_starring_YUNA_ITO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Endless Story",
+      "artist": "田村由加莉",
+      "has_synced": true,
+      "path": "select/12_Endless_Story_田村由加莉.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Endless Story",
+      "artist": "Tamura, Yukari",
+      "has_synced": true,
+      "path": "select/13_Endless_Story_Tamura,_Yukari.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Endless Story",
+      "artist": "Tamura, Yukari",
+      "has_synced": true,
+      "path": "select/14_Endless_Story_Tamura,_Yukari.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "endless Story",
+      "artist": "Band-Maid",
+      "has_synced": true,
+      "path": "select/15_endless_Story_Band-Maid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Endless Story",
+      "artist": "田村 ゆかり",
+      "has_synced": false,
+      "path": "select/pl_01_Endless_Story_田村_ゆかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Endless Story",
+      "artist": "田村 ゆかり",
+      "has_synced": false,
+      "path": "select/pl_02_Endless_Story_田村_ゆかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Endless Story",
+      "artist": "田村 ゆかり",
+      "has_synced": false,
+      "path": "select/pl_03_Endless_Story_田村_ゆかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Endless Story",
+      "artist": "田村 ゆかり",
+      "has_synced": false,
+      "path": "select/pl_04_Endless_Story_田村_ゆかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ENDLESS STORY",
+      "artist": "田村 ゆかり",
+      "has_synced": false,
+      "path": "select/pl_05_ENDLESS_STORY_田村_ゆかり.txt"
+    }
+  ]
+}
